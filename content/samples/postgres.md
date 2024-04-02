@@ -1,6 +1,6 @@
 ---
 title: PostgreSQL samples
-description: Docker samples for PostgreSQL.
+description: Adeka samples for PostgreSQL.
 service: postgresql
 aliases:
 - /engine/examples/postgresql_service/
